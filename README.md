@@ -1,7 +1,6 @@
 # FitnessExercises
 
-This project was generated Angular version 10.0.0.
-This was Integrated with REDUX (NGRX) and Angular Material
+This project was generated Angular version 10.0.0 with REDUX (NGRX) and Angular Material.
 
 ## Description
 
