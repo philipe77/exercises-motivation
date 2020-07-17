@@ -1,6 +1,7 @@
 # FitnessExercises
 
 This project was generated Angular version 10.0.0 with REDUX (NGRX) and Angular Material.
+Firebase as Backend
 
 ## Description
 
